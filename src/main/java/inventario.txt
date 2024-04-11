@@ -1,0 +1,3 @@
+supermercado,coca cola 600ml,15
+jugueteria,juguete de accion,300
+electronica,iphone 15 pro max,30000
